@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Alauddin Khan</h1>
+<h1 align="center">Hi 👋, I'm Md Alauddin</h1>
 <h3 align="center">A Web developer from Bangladesh</h3>
 
 - 🔭 I’m currently working on [Human Resource Management](https://alauddin.wdpf55.com/login)
